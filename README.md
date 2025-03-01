@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Ayush Roy
 - 👀 I’m interested in Cyber Security and cryptography 
 - 🌱 I’m currently learning Cyber Security
-- 📫 How to reach me ayush2006kumar996@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am from National Technology of India 
+- 📫 How to reach me ayush2006kumar996@gmail.com 
 
 <!---
 ayush-roy-21/ayush-roy-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
