@@ -1,6 +1,7 @@
 # Hi there, I'm Ayush Roy! 👋
 
 ### 🧑‍💻 Engineering Undergraduate | B.Tech in Mathematics and Computing
+### SARDAR VALLABHBHAI NATIONAL INSTITUTE OF TECHNOLOGY, SURAT
 
 ---
 
@@ -38,7 +39,7 @@
 
 ## 🏆 Achievements
 
-- Qualified **IIT-JEE**, **NDA written**, **IOQM**, and several engineering entrance exams  
+- Qualified **NDA written**, **IOQM**, and several engineering entrance exams  
   _Consistently excelling in national-level competitive exams_
 
 ---
