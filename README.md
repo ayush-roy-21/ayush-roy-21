@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayush%20Roy&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Cybersecurity%20Engineer%20%7C%20Blockchain%20Security%20%7C%20SVNIT%20Surat&descAlignY=58&descSize=16" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-my--portfolio--msk9.vercel.app-6d28d9?style=for-the-badge&logoColor=white)](https://my-portfolio-msk9.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-roy-83689032b/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayush_roy__08/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush2006kumar996@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ayush-roy-21&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)](https://github.com/ayush-roy-21)
@@ -31,8 +31,8 @@ class AyushRoy:
         "🌐 Digital Forensics, DeFi Fraud Prevention & Crypto Tracing",
     ]
 
+    flagship   = "https://sc-vulnerability-scanner-12sr.vercel.app/"
     portfolio  = "https://my-portfolio-msk9.vercel.app/"
-    stack      = ["Next.js App Router", "Tailwind CSS", "Framer Motion", "GSAP"]
     currently  = "Building AI-powered threat detection & DeFi security tooling"
     interests  = ["Geopolitics × Cyber Warfare", "Dark Web Monitoring", "AML Systems"]
 ```
@@ -48,66 +48,170 @@ class AyushRoy:
 
 ---
 
-## 🌐 Portfolio — `My-portfolio`
+## 🔐 Flagship Project — Smart Contract Vulnerability Scanner
 
-> **Ayush Roy · Senior Cybersecurity Engineer** — Live at [my-portfolio-msk9.vercel.app](https://my-portfolio-msk9.vercel.app/)
+> A comprehensive smart contract security analysis tool combining **static analysis** and **symbolic execution** for thorough security assessment of Ethereum smart contracts.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-msk9.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-sc--vulnerability--scanner--12sr.vercel.app-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://sc-vulnerability-scanner-12sr.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Deploy Status](https://img.shields.io/github/actions/workflow/status/ayush-roy-21/My-portfolio/deploy-to-vercel.yml?style=for-the-badge&label=CI%2FCD&logo=githubactions&logoColor=white)](https://github.com/ayush-roy-21/My-portfolio/actions)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
 
-### 🛠️ Built With
+---
+
+### ✨ Key Features
+
+| Feature | Description |
+|---------|-------------|
+| 🔬 **Static Analysis** | Slither-like control/data flow analysis and pattern matching |
+| 🧮 **Symbolic Execution** | Mythril-like path exploration and constraint solving |
+| 🖥️ **Interactive Web UI** | Upload contracts, view reports, get security recommendations |
+| 🐛 **Detects** | Reentrancy · Arithmetic Overflow/Underflow · Access Control · Gas Inefficiencies |
+| ⚡ **Fast Reports** | Full vulnerability report generated in **< 5 seconds** |
+| ✅ **Zero False Negatives** | In controlled test environments across 15+ vulnerability patterns |
+
+---
+
+### 🏗️ System Architecture
+
+```
+┌─────────────────┐      ┌─────────────────┐      ┌──────────────────┐
+│    Frontend     │      │     Backend     │      │  Smart Contracts │
+│    (React)      │◄────►│    (Python)     │◄────►│   (Solidity)     │
+├─────────────────┤      ├─────────────────┤      ├──────────────────┤
+│ • Contract Form │      │ • Static Anlys  │      │ • AST Analysis   │
+│ • Results View  │      │ • Symbolic Exec │      │ • Vuln Patterns  │
+│ • Vuln Dashboard│      │ • Detectors     │      │ • Test Cases     │
+│                 │      │ • API Endpoints │      │                  │
+└────────┬────────┘      └────────┬────────┘      └────────┬─────────┘
+         │                        │                         │
+         ▼                        ▼                         ▼
+┌─────────────────┐      ┌─────────────────┐      ┌──────────────────┐
+│ External Svcs   │      │    Database     │      │   Blockchain     │
+├─────────────────┤      ├─────────────────┤      ├──────────────────┤
+│ • Code Repos    │      │ • Scan History  │      │ • Mainnet        │
+│ • Docs          │      │ • Vulns Store   │      │ • Testnet        │
+│ • Updates       │      │ • Analytics     │      │ • Local Node     │
+└─────────────────┘      └─────────────────┘      └──────────────────┘
+```
+
+---
+
+### 🔄 Analysis Flow
+
+**Backend Pipeline:**
+
+```mermaid
+flowchart TB
+    A[Contract Input] --> B[Static Analyzer]
+    A --> C[Symbolic Executor]
+    B --> D[Detectors]
+    C --> D
+    D --> E[Access Control]
+    D --> F[Arithmetic]
+    D --> G[Gas]
+    D --> H[Reentrancy]
+    E & F & G & H --> I[Analysis Results]
+    I --> J[API Response]
+```
+
+**Frontend Pipeline:**
+
+```mermaid
+flowchart TB
+    A[Contract Form] --> B[Contract Analysis Page]
+    B --> C[Analysis Results]
+    C --> D[Vulnerability Report]
+    D --> E[Issue Details]
+    D --> F[Stats Summary]
+    D --> G[Vulnerability Chart]
+    E & F & G --> H[Dashboard]
+    H --> I[Recent Scans]
+
+    style A fill:#f9f,stroke:#333
+    style H fill:#bbf,stroke:#333
+```
+
+---
+
+### 🛠️ Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
-| **Framework** | Next.js (App Router) |
-| **Styling** | Tailwind CSS |
-| **Animations** | Framer Motion + GSAP |
-| **Deployment** | Vercel (auto-deploy via GitHub Actions) |
-| **Dynamic Routing** | `src/app/projects/[slug]` — per-project detail pages |
-| **SEO** | Auto-generated sitemap via `src/app/sitemap.ts` |
+| **Frontend** | React · TypeScript |
+| **Backend** | Python · Flask / FastAPI |
+| **Analysis Engines** | Static Analyzer · Symbolic Executor · AST Parser |
+| **Vulnerability Detectors** | Reentrancy · Arithmetic · Access Control · Gas |
+| **Target Contracts** | Solidity (Ethereum) |
+| **Deployment** | Vercel |
+
+---
 
 ### 📁 Project Structure
 
 ```
-My-portfolio/
-├── src/
-│   └── app/
-│       ├── layout.tsx                   # Root layout
-│       ├── page.tsx                     # Home / Hero
-│       ├── projects/
-│       │   └── [slug]/                  # Dynamic project detail pages
-│       │       └── page.tsx
-│       └── sitemap.ts                   # Auto-generated SEO sitemap
-├── .github/
-│   └── workflows/
-│       ├── deploy-to-vercel.yml         # Primary CI/CD → Vercel
-│       └── deploy-vercel-cli.yml        # CLI fallback deploy
-├── public/
-├── tailwind.config.ts
-├── next.config.ts
-└── package.json
+sc-vulnerability-scanner/
+├── backend/
+│   ├── analyzers/
+│   │   ├── ast_parser.py           # Solidity AST parsing
+│   │   ├── static_analyzer.py      # Static analysis engine
+│   │   └── symbolic_executor.py    # Symbolic execution engine
+│   ├── detectors/
+│   │   ├── access_control_detector.py
+│   │   ├── arithmetic_detector.py
+│   │   ├── gas_detector.py
+│   │   └── reentrancy_detector.py
+│   ├── tests/
+│   │   └── contracts/              # Test Solidity contracts
+│   ├── app.py                      # Main Flask/FastAPI app
+│   └── requirements.txt
+├── frontend/
+│   ├── src/
+│   │   ├── components/             # Reusable UI components
+│   │   ├── pages/                  # Application pages
+│   │   ├── theme/                  # UI theme config
+│   │   └── utils/                  # Helper utilities
+│   ├── package.json
+│   └── tsconfig.json
+└── scripts/                        # Utility scripts
 ```
 
-### ⚙️ CI/CD — GitHub Actions → Vercel
+---
 
-```yaml
-# Triggers on every push to `main`
-# Required GitHub Secrets:
-#   VERCEL_TOKEN        — Vercel personal access token
-#   VERCEL_ORG_ID       — Vercel organization ID
-#   VERCEL_PROJECT_ID   — Vercel project ID
-#
-# Fallback: deploy-vercel-cli.yml (needs VERCEL_TOKEN only)
+### ⚙️ Quick Start
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/ayush-roy-21/sc-vulnerability-scanner.git
+
+# 2. Backend setup
+cd backend
+python -m venv venv
+source venv/bin/activate        # Windows: venv\Scripts\activate
+pip install -r requirements.txt
+python app.py                   # Starts on http://localhost:5000
+
+# 3. Frontend setup (new terminal)
+cd frontend
+npm install
+npm start                       # Starts on http://localhost:3000
+
+# 4. Scan a contract via CLI
+curl -X POST -F "file=@MyContract.sol" http://localhost:5000/analyze
 ```
 
-| Deploy Method | Details |
-|---------------|---------|
-| **GitHub Actions (primary)** | Push to `main` → auto-deploy via `deploy-to-vercel.yml` |
-| **Vercel CLI (fallback)** | `VERCEL_TOKEN` only → `deploy-vercel-cli.yml` |
-| **Vercel manual import** | Import repo → connect `main` branch → defaults are fine |
-| **Netlify** | Build cmd: `npm run build` · Publish dir: `.next` |
+---
+
+### 🐛 Supported Vulnerability Types
+
+```
+⚠️  Reentrancy Attacks          →  Cross-function and cross-contract reentrancy
+🔢  Arithmetic Overflow          →  Integer overflow / underflow in Solidity <0.8
+🔑  Access Control Issues        →  Unprotected functions, tx.origin misuse
+⛽  Gas Inefficiencies           →  Unbounded loops, expensive storage patterns
+```
 
 ---
 
@@ -181,64 +285,43 @@ My-portfolio/
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Other Projects
 
-### 1. 📈 EigenTrade — Automated ML Trading System
+### 📈 EigenTrade — Automated ML Trading System
 > `Python` · `Machine Learning` · `PL/SQL` · `LLM Integration`
-
-An automated trading engine powered by custom regression models and a real-time LLM-based "Explainer Module" that generates human-readable market justifications per trade.
 
 | Metric | Result |
 |--------|--------|
 | 🎯 Prediction Accuracy | **50–55%** on historical stock data |
-| ⚡ Trade Interpretation Latency | Reduced to **2 seconds** via LLM Explainer Module |
-| 🗄️ Data Retrieval Optimization | **40% faster** via advanced PL/SQL query tuning |
-| 📊 Records Processed | **10–20 million** historical records efficiently |
+| ⚡ LLM Explainer Latency | Reduced to **2 seconds** per trade |
+| 🗄️ Data Retrieval Speed | **40% faster** via advanced PL/SQL tuning |
+| 📊 Records Processed | **10–20 million** historical records |
 
 ---
 
-### 2. 🔍 Smart Contract Vulnerability Scanner
-> `Python` · `Solidity` · `Slither` · `Mythril`
-
-Multi-engine static analysis pipeline that automates smart contract auditing and generates developer-facing remediation reports in seconds.
-
-| Metric | Result |
-|--------|--------|
-| 🐛 Vulnerability Patterns | **15+ critical patterns** (Reentrancy, Integer Overflow, etc.) |
-| ⏱️ Audit Time Reduction | **40%** less manual review time |
-| ✅ False Negatives | **Zero** in controlled test environments |
-| 💨 Report Generation | **< 5 seconds** via developer web interface |
-
----
-
-### 3. 🎣 Phishing Threat Detection & Analysis System
+### 🎣 Phishing Threat Detection & Analysis System
 > `Python` · `Laravel` · `Browser Extension`
 
-Browser extension + honeypot deception system that blocks malicious domains before page load and auto-reports threats to authorities via custom scraping bots.
-
 | Metric | Result |
 |--------|--------|
-| ⚡ URL Analysis Speed | **50ms** per URL — pre-page-load |
-| 🪤 Honeypot Neutralization | **20–30%** of active threats redirected to isolated environments |
-| 📬 Response Automation | Automated takedown reporting to authorities |
+| ⚡ URL Analysis Speed | **50ms** per URL — pre-page-load blocking |
+| 🪤 Honeypot Neutralization | **20–30%** of active threats isolated |
+| 📬 Response Automation | Auto-reporting to authorities via scraping bots |
 
 ---
 
-### 4. 🌐 Decentralized Remittance Platform
+### 🌐 Decentralized Remittance Platform
 > `Solidity` · `React.js` · `Web3.js`
-
-Blockchain-based payment gateway with Multi-Sig Wallets, trustless Escrow contracts, and a real-time AML dashboard for suspicious wallet cluster detection.
 
 | Metric | Result |
 |--------|--------|
-| 💸 Transaction Fee Reduction | **90%** vs traditional cross-border banking |
+| 💸 Fee Reduction | **90%** vs traditional cross-border banking |
 | ⏳ Settlement Time | **< 1 minute** vs days with SWIFT |
 | 🔐 Fund Security | **100%** secured via Multi-Sig + Escrow |
 | 🔎 AML Dashboard | Real-time suspicious wallet cluster flagging |
@@ -306,11 +389,12 @@ Blockchain-based payment gateway with Multi-Sig Wallets, trustless Escrow contra
 
 <div align="center">
 
-Working on **cybersecurity**, **blockchain security**, **DeFi**, or **ML-driven threat intelligence**? Let's collaborate.
+Working on **smart contract security**, **DeFi**, **blockchain forensics**, or **ML-driven threat intelligence**? Let's collaborate.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-6d28d9?style=for-the-badge)](https://my-portfolio-msk9.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush2006kumar996@gmail.com)
+[![Live Tool](https://img.shields.io/badge/🔐_Try_SC_Scanner-6d28d9?style=for-the-badge)](https://sc-vulnerability-scanner-12sr.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge)](https://my-portfolio-msk9.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush2006kumar996@gmail.com)
 
 </div>
 
