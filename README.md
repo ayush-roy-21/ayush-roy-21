@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayush%20Roy&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Cybersecurity%20Engineer%20%7C%20Blockchain%20Security%20%7C%20SVNIT%20Surat&descAlignY=58&descSize=16" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio?style=for-the-badge&logoColor=white)](https://my-portfolio-msk9.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6d28d9?style=for-the-badge&logoColor=white)](https://my-portfolio-msk9.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush2006kumar996@gmail.com)
