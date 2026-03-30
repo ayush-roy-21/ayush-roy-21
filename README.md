@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayush%20Roy&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Cybersecurity%20Engineer%20%7C%20Blockchain%20Security%20%7C%20SVNIT%20Surat&descAlignY=58&descSize=16" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6d28d9?style=for-the-badge&logoColor=white)](https://my-portfolio-msk9.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-my--portfolio--msk9.vercel.app-6d28d9?style=for-the-badge&logoColor=white)](https://my-portfolio-msk9.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-roy-83689032b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayush_roy__08/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush2006kumar996@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ayush-roy-21&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)](https://github.com/ayush-roy-21)
@@ -50,7 +50,7 @@ class AyushRoy:
 
 ## 🔐 Flagship Project — Smart Contract Vulnerability Scanner
 
-> A comprehensive smart contract security analysis tool combining **static analysis** and **symbolic execution** for thorough security assessment of Ethereum smart contracts.
+> A comprehensive smart contract security analysis tool combining static analysis and symbolic execution for thorough security assessment of Ethereum smart contracts.
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-sc--vulnerability--scanner--12sr.vercel.app-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://sc-vulnerability-scanner-12sr.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
@@ -59,159 +59,15 @@ class AyushRoy:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
 
----
-
-### ✨ Key Features
-
-| Feature | Description |
-|---------|-------------|
+| Feature | Details |
+|---------|---------|
 | 🔬 **Static Analysis** | Slither-like control/data flow analysis and pattern matching |
 | 🧮 **Symbolic Execution** | Mythril-like path exploration and constraint solving |
 | 🖥️ **Interactive Web UI** | Upload contracts, view reports, get security recommendations |
-| 🐛 **Detects** | Reentrancy · Arithmetic Overflow/Underflow · Access Control · Gas Inefficiencies |
-| ⚡ **Fast Reports** | Full vulnerability report generated in **< 5 seconds** |
-| ✅ **Zero False Negatives** | In controlled test environments across 15+ vulnerability patterns |
+| ⚡ **Report Speed** | Full vulnerability report generated in **< 5 seconds** |
+| ✅ **Accuracy** | Zero false negatives across **15+ vulnerability patterns** in controlled tests |
 
----
-
-### 🏗️ System Architecture
-
-```
-┌─────────────────┐      ┌─────────────────┐      ┌──────────────────┐
-│    Frontend     │      │     Backend     │      │  Smart Contracts │
-│    (React)      │◄────►│    (Python)     │◄────►│   (Solidity)     │
-├─────────────────┤      ├─────────────────┤      ├──────────────────┤
-│ • Contract Form │      │ • Static Anlys  │      │ • AST Analysis   │
-│ • Results View  │      │ • Symbolic Exec │      │ • Vuln Patterns  │
-│ • Vuln Dashboard│      │ • Detectors     │      │ • Test Cases     │
-│                 │      │ • API Endpoints │      │                  │
-└────────┬────────┘      └────────┬────────┘      └────────┬─────────┘
-         │                        │                         │
-         ▼                        ▼                         ▼
-┌─────────────────┐      ┌─────────────────┐      ┌──────────────────┐
-│ External Svcs   │      │    Database     │      │   Blockchain     │
-├─────────────────┤      ├─────────────────┤      ├──────────────────┤
-│ • Code Repos    │      │ • Scan History  │      │ • Mainnet        │
-│ • Docs          │      │ • Vulns Store   │      │ • Testnet        │
-│ • Updates       │      │ • Analytics     │      │ • Local Node     │
-└─────────────────┘      └─────────────────┘      └──────────────────┘
-```
-
----
-
-### 🔄 Analysis Flow
-
-**Backend Pipeline:**
-
-```mermaid
-flowchart TB
-    A[Contract Input] --> B[Static Analyzer]
-    A --> C[Symbolic Executor]
-    B --> D[Detectors]
-    C --> D
-    D --> E[Access Control]
-    D --> F[Arithmetic]
-    D --> G[Gas]
-    D --> H[Reentrancy]
-    E & F & G & H --> I[Analysis Results]
-    I --> J[API Response]
-```
-
-**Frontend Pipeline:**
-
-```mermaid
-flowchart TB
-    A[Contract Form] --> B[Contract Analysis Page]
-    B --> C[Analysis Results]
-    C --> D[Vulnerability Report]
-    D --> E[Issue Details]
-    D --> F[Stats Summary]
-    D --> G[Vulnerability Chart]
-    E & F & G --> H[Dashboard]
-    H --> I[Recent Scans]
-
-    style A fill:#f9f,stroke:#333
-    style H fill:#bbf,stroke:#333
-```
-
----
-
-### 🛠️ Tech Stack
-
-| Layer | Technology |
-|-------|-----------|
-| **Frontend** | React · TypeScript |
-| **Backend** | Python · Flask / FastAPI |
-| **Analysis Engines** | Static Analyzer · Symbolic Executor · AST Parser |
-| **Vulnerability Detectors** | Reentrancy · Arithmetic · Access Control · Gas |
-| **Target Contracts** | Solidity (Ethereum) |
-| **Deployment** | Vercel |
-
----
-
-### 📁 Project Structure
-
-```
-sc-vulnerability-scanner/
-├── backend/
-│   ├── analyzers/
-│   │   ├── ast_parser.py           # Solidity AST parsing
-│   │   ├── static_analyzer.py      # Static analysis engine
-│   │   └── symbolic_executor.py    # Symbolic execution engine
-│   ├── detectors/
-│   │   ├── access_control_detector.py
-│   │   ├── arithmetic_detector.py
-│   │   ├── gas_detector.py
-│   │   └── reentrancy_detector.py
-│   ├── tests/
-│   │   └── contracts/              # Test Solidity contracts
-│   ├── app.py                      # Main Flask/FastAPI app
-│   └── requirements.txt
-├── frontend/
-│   ├── src/
-│   │   ├── components/             # Reusable UI components
-│   │   ├── pages/                  # Application pages
-│   │   ├── theme/                  # UI theme config
-│   │   └── utils/                  # Helper utilities
-│   ├── package.json
-│   └── tsconfig.json
-└── scripts/                        # Utility scripts
-```
-
----
-
-### ⚙️ Quick Start
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/ayush-roy-21/sc-vulnerability-scanner.git
-
-# 2. Backend setup
-cd backend
-python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-python app.py                   # Starts on http://localhost:5000
-
-# 3. Frontend setup (new terminal)
-cd frontend
-npm install
-npm start                       # Starts on http://localhost:3000
-
-# 4. Scan a contract via CLI
-curl -X POST -F "file=@MyContract.sol" http://localhost:5000/analyze
-```
-
----
-
-### 🐛 Supported Vulnerability Types
-
-```
-⚠️  Reentrancy Attacks          →  Cross-function and cross-contract reentrancy
-🔢  Arithmetic Overflow          →  Integer overflow / underflow in Solidity <0.8
-🔑  Access Control Issues        →  Unprotected functions, tx.origin misuse
-⛽  Gas Inefficiencies           →  Unbounded loops, expensive storage patterns
-```
+**Detects:** Reentrancy · Arithmetic Overflow/Underflow · Access Control Issues · Gas Inefficiencies
 
 ---
 
