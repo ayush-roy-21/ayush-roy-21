@@ -221,23 +221,6 @@ class AyushRoy:
 🌐  Geopolitics × Cyber Warfare        →  International Relations & State-Sponsored Cyber Ops
 ```
 
----
-
-## 🌐 Languages
-
-| Language | Level |
-|----------|-------|
-| 🇬🇧 English | Professional Proficiency (C1) |
-| 🇮🇳 Hindi | Native |
-| 🇮🇳 Gujarati | Fluent |
-
----
-
-## 🤝 Leadership & Volunteering
-
-**🎭 Surat Literature Festival (LitFest) — Event Volunteer** · *Surat, Gujarat · 2026*
-
-> Managed on-ground logistics, guest relations, and crowd control for major sessions, ensuring seamless event execution.
 
 ---
 
