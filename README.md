@@ -163,17 +163,23 @@ class AyushRoy:
 
 ## 🚀 Other Projects
 
-### ⚙️ EigenVM
-> `[ADD: one-line description — e.g. what it analyzes/executes, and why you built it]`
-
+### ⚙️ EigenVM — Minimal EVM in Rust (WebAssembly-Powered)
+> `Rust` · `WebAssembly` · `EVM Internals`
+>
+> A deterministic, from-scratch Ethereum Virtual Machine bytecode interpreter built without relying on external EVM libraries (`revm`, `evmone`) — every primitive, from opcode decoding to 256-bit arithmetic to gas accounting, implemented from first principles.
+ 
+[![Live Repo](https://img.shields.io/badge/💻_Repo-EigenVM-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-roy-21/EigenVM)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org/)
+ 
 | Metric | Result |
 |--------|--------|
-| 🔧 Tech Stack | `[ADD: languages/frameworks used]` |
-| 🎯 Key Capability | `[ADD: e.g. bytecode analysis, custom EVM interpreter, formal verification pass]` |
-| 📈 Result / Metric | `[ADD: e.g. execution speed, coverage, accuracy]` |
-
-*(Tell me what EigenVM actually does and I'll turn this into a proper table like the others.)*
-
+| 🧪 Test Coverage | **94 passing** unit & integration tests across opcodes, stack/memory boundaries & gas edge cases |
+| ⚙️ Opcode Coverage | Full arithmetic, comparison, bitwise, control flow, memory, storage & stack op families |
+| 🧮 Gas Accounting | Exact EIP-spec dynamic memory expansion + EIP-2929 storage gas modeling |
+| 🕸️ WASM Demo | Core engine compiled to WebAssembly, powering a live step-by-step browser debugger |
+| 🛡️ Code Quality | Zero `unsafe` blocks · zero Clippy warnings · fully panic-free error handling |
+ 
 ---
 
 ### 📈 EigenTrade — Automated ML Trading System
