@@ -43,7 +43,7 @@ class AyushRoy:
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| **B.Tech – Mathematics & Computing** | Sardar Vallabhbhai NIT (SVNIT), Surat | 2024 – 2028 | CGPA: **7.98 / 10** |
+| **B.Tech – Mathematics & Computing** | Sardar Vallabhbhai NIT (SVNIT), Surat | 2024 – 2028 | CGPA: **7.83 / 10** |
 | **Class XII – Gujarat Board** | Baroda High School, Vadodara | 2022 – 2024 | **85%** |
 
 ---
