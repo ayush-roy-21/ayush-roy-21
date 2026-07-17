@@ -21,7 +21,7 @@ class AyushRoy:
     role       = "Blockchain Security Researcher & Software Engineer"
     location   = "Vadodara → Surat, Gujarat, India 🇮🇳"
     education  = "B.Tech Mathematics & Computing @ SVNIT Surat (2024–2028)"
-    cgpa       = 7.98 / 10.0
+    cgpa       = 7.83 / 10.0
 
     expertise  = [
         "🔐 Penetration Testing & Vulnerability Assessment (VAPT)",
