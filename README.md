@@ -28,7 +28,7 @@ class AyushRoy:
         "⛓️  Smart Contract Security Auditing (Solidity, Slither, Mythril)",
         "🧬 Malware Analysis, Reverse Engineering & OSINT",
         "📊 ML-Driven Financial Systems & LLM Integration",
-        "🌱 Sustainable Supply Chain Resilience Research (FedEx Smart Center)",
+        "🌱 Sustainable Supply Chain Resilience Research (FedEx Smart Center @ IIT MADRAS)",
     ]
 
     flagship   = "https://sc-vulnerability-scanner-12sr.vercel.app/"
@@ -71,7 +71,7 @@ class AyushRoy:
 
 ---
 
-## 🔬 Featured Research — Supply Chain Resilience (FedEx Smart Center)
+## 🔬 Featured Research — Supply Chain Resilience (FedEx Smart Center @ IIT MADRAS)
 
 > Research Internship focused on resilience and regulatory compliance in multi-tier agri-food supply chains, under the umbrella of Sustainable Supply Chain Management (SSCM).
 
