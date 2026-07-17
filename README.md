@@ -7,9 +7,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayush_roy__08/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush2006kumar996@gmail.com)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ayush-roy-21&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)](https://github.com/ayush-roy-21)
-[![GitHub followers](https://img.shields.io/github/followers/ayush-roy-21?style=for-the-badge&color=6d28d9&labelColor=1a1a2e&label=Followers)](https://github.com/ayush-roy-21?tab=followers)
-
 </div>
 
 ---
@@ -18,17 +15,16 @@
 
 ```python
 class AyushRoy:
-    role       = "Blockchain Security Researcher & Software Engineer"
+    role       = "Security Engineering Student | Blockchain & Systems Security"
     location   = "Vadodara → Surat, Gujarat, India 🇮🇳"
     education  = "B.Tech Mathematics & Computing @ SVNIT Surat (2024–2028)"
-    cgpa       = 7.83 / 10.0
 
     expertise  = [
         "🔐 Penetration Testing & Vulnerability Assessment (VAPT)",
         "⛓️  Smart Contract Security Auditing (Solidity, Slither, Mythril)",
         "🧬 Malware Analysis, Reverse Engineering & OSINT",
         "📊 ML-Driven Financial Systems & LLM Integration",
-        "🌱 Sustainable Supply Chain Resilience Research (FedEx Smart Center @ IIT MADRAS)",
+        "🌱 Sustainable Supply Chain Resilience Research (FedEx Smart Center)",
     ]
 
     flagship   = "https://sc-vulnerability-scanner-12sr.vercel.app/"
@@ -41,10 +37,7 @@ class AyushRoy:
 
 ## 🎓 Education
 
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| **B.Tech – Mathematics & Computing** | Sardar Vallabhbhai NIT (SVNIT), Surat | 2024 – 2028 | CGPA: **7.83 / 10** |
-| **Class XII – Gujarat Board** | Baroda High School, Vadodara | 2022 – 2024 | **85%** |
+**B.Tech, Mathematics & Computing** — Sardar Vallabhbhai NIT (SVNIT), Surat · 2024–2028
 
 ---
 
@@ -71,7 +64,7 @@ class AyushRoy:
 
 ---
 
-## 🔬 Featured Research — Supply Chain Resilience (FedEx Smart Center @ IIT MADRAS)
+## 🔬 Featured Research — Supply Chain Resilience (FedEx Smart Center)
 
 > Research Internship focused on resilience and regulatory compliance in multi-tier agri-food supply chains, under the umbrella of Sustainable Supply Chain Management (SSCM).
 
@@ -114,6 +107,7 @@ class AyushRoy:
 <summary><b>💻 Languages</b></summary>
 <br>
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -167,11 +161,11 @@ class AyushRoy:
 > `Rust` · `WebAssembly` · `EVM Internals`
 >
 > A deterministic, from-scratch Ethereum Virtual Machine bytecode interpreter built without relying on external EVM libraries (`revm`, `evmone`) — every primitive, from opcode decoding to 256-bit arithmetic to gas accounting, implemented from first principles.
- 
+
 [![Live Repo](https://img.shields.io/badge/💻_Repo-EigenVM-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-roy-21/EigenVM)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org/)
- 
+
 | Metric | Result |
 |--------|--------|
 | 🧪 Test Coverage | **94 passing** unit & integration tests across opcodes, stack/memory boundaries & gas edge cases |
@@ -179,7 +173,7 @@ class AyushRoy:
 | 🧮 Gas Accounting | Exact EIP-spec dynamic memory expansion + EIP-2929 storage gas modeling |
 | 🕸️ WASM Demo | Core engine compiled to WebAssembly, powering a live step-by-step browser debugger |
 | 🛡️ Code Quality | Zero `unsafe` blocks · zero Clippy warnings · fully panic-free error handling |
- 
+
 ---
 
 ### 📈 EigenTrade — Automated ML Trading System
@@ -187,10 +181,10 @@ class AyushRoy:
 
 | Metric | Result |
 |--------|--------|
-| 🎯 Prediction Accuracy | **50–55%** on historical stock data |
+| 🧠 Model Approach | Ensemble ML models trained on historical price/volume data, paired with an LLM explainer layer |
 | ⚡ LLM Explainer Latency | Reduced to **2 seconds** per trade |
 | 🗄️ Data Retrieval Speed | **40% faster** via advanced PL/SQL tuning |
-| 📊 Records Processed | **10–20 million** historical records |
+| 📊 Data Scale | Large-scale multi-year historical dataset across tracked equities |
 
 ---
 
@@ -200,7 +194,7 @@ class AyushRoy:
 | Metric | Result |
 |--------|--------|
 | ⚡ URL Analysis Speed | **50ms** per URL — pre-page-load blocking |
-| 🪤 Honeypot Neutralization | **20–30%** of active threats isolated |
+| 🪤 Honeypot Layer | Actively isolates a portion of detected threats before they reach a user |
 | 📬 Response Automation | Auto-reporting to authorities via scraping bots |
 
 ---
@@ -229,16 +223,6 @@ class AyushRoy:
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayush-roy-21&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayush-roy-21&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
