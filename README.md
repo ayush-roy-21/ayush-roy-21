@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayush%20Roy&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Cybersecurity%20Engineer%20%7C%20Blockchain%20Security%20%7C%20SVNIT%20Surat&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayush%20Roy&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blockchain%20Security%20%7C%20Threat%20Intelligence%20%7C%20SVNIT%20Surat&descAlignY=58&descSize=16" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6d28d9?style=for-the-badge&logoColor=white)](https://my-portfolio-msk9.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-roy-83689032b/)
@@ -18,7 +18,7 @@
 
 ```python
 class AyushRoy:
-    role       = "Senior Cybersecurity Engineer"
+    role       = "Blockchain Security Researcher & Software Engineer"
     location   = "Vadodara → Surat, Gujarat, India 🇮🇳"
     education  = "B.Tech Mathematics & Computing @ SVNIT Surat (2024–2028)"
     cgpa       = 7.98 / 10.0
@@ -28,13 +28,13 @@ class AyushRoy:
         "⛓️  Smart Contract Security Auditing (Solidity, Slither, Mythril)",
         "🧬 Malware Analysis, Reverse Engineering & OSINT",
         "📊 ML-Driven Financial Systems & LLM Integration",
-        "🌐 Digital Forensics, DeFi Fraud Prevention & Crypto Tracing",
+        "🌱 Sustainable Supply Chain Resilience Research (FedEx Smart Center)",
     ]
 
     flagship   = "https://sc-vulnerability-scanner-12sr.vercel.app/"
     portfolio  = "https://my-portfolio-msk9.vercel.app/"
-    currently  = "Building AI-powered threat detection & DeFi security tooling"
-    interests  = ["Geopolitics × Cyber Warfare", "Dark Web Monitoring", "AML Systems"]
+    currently  = "Researching supply chain resilience @ FedEx · Building EigenVM"
+    interests  = ["EVM Internals & Formal Verification", "Geopolitics × Cyber Warfare", "Dark Web Monitoring"]
 ```
 
 ---
@@ -71,6 +71,19 @@ class AyushRoy:
 
 ---
 
+## 🔬 Featured Research — Supply Chain Resilience (FedEx Smart Center)
+
+> Research Internship focused on resilience and regulatory compliance in multi-tier agri-food supply chains, under the umbrella of Sustainable Supply Chain Management (SSCM).
+
+| Area | Details |
+|------|---------|
+| 🧭 **Focus** | Resilience & compliance across multi-tier agri-food supply chains |
+| 📚 **Theoretical Frameworks** | Stakeholder Theory · Resource-Based View (RBV) · Institutional Theory |
+| 🐍 **Data Pipeline** | Built a Python collection script covering historical data for **18 commodities** |
+| 📑 **Deliverables** | Monthly research reports & weekly presentations tracking systematic literature review progress |
+
+---
+
 ## 🛡️ Technical Arsenal
 
 <details>
@@ -93,6 +106,7 @@ class AyushRoy:
 - **Security Auditing** — Reentrancy, Integer Overflow, Gas Optimization via Slither & Mythril
 - **Crypto Forensics** — Transaction Tracing, Wallet Clustering & Fraud Detection
 - **DeFi Security** — Multi-Sig Wallets, Trustless Escrow, AML Dashboard Design
+- **EVM Internals** — Formal verification concepts applied to bytecode-level analysis
 
 </details>
 
@@ -148,6 +162,19 @@ class AyushRoy:
 ---
 
 ## 🚀 Other Projects
+
+### ⚙️ EigenVM
+> `[ADD: one-line description — e.g. what it analyzes/executes, and why you built it]`
+
+| Metric | Result |
+|--------|--------|
+| 🔧 Tech Stack | `[ADD: languages/frameworks used]` |
+| 🎯 Key Capability | `[ADD: e.g. bytecode analysis, custom EVM interpreter, formal verification pass]` |
+| 📈 Result / Metric | `[ADD: e.g. execution speed, coverage, accuracy]` |
+
+*(Tell me what EigenVM actually does and I'll turn this into a proper table like the others.)*
+
+---
 
 ### 📈 EigenTrade — Automated ML Trading System
 > `Python` · `Machine Learning` · `PL/SQL` · `LLM Integration`
@@ -211,28 +238,15 @@ class AyushRoy:
 
 ---
 
-## 🎯 Areas of Deep Interest
-
-```
-🔬  Digital Forensics & Investigation  →  Cyber Crime, Malware Analysis, Reverse Engineering
-⛓️   Blockchain Security               →  Smart Contract Auditing, DeFi Fraud, Crypto Tracing
-🌍  Threat Intelligence                →  OSINT, Dark Web Monitoring, APT Tracking
-💳  Financial Security                 →  Online Fraud Detection, Secure Payment Architectures
-🌐  Geopolitics × Cyber Warfare        →  International Relations & State-Sponsored Cyber Ops
-```
-
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
 
-Working on **smart contract security**, **DeFi**, **blockchain forensics**, or **ML-driven threat intelligence**? Let's collaborate.
+Working on **smart contract security**, **DeFi**, **blockchain forensics**, or **supply chain resilience**? Let's collaborate.
 
 [![Live Tool](https://img.shields.io/badge/🔐_Try_SC_Scanner-6d28d9?style=for-the-badge)](https://sc-vulnerability-scanner-12sr.vercel.app/)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge)](https://my-portfolio-msk9.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-roy-83689032b/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush2006kumar996@gmail.com)
 
 </div>
